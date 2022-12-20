@@ -1,1 +1,1 @@
-# rsshool-cv
+https://adrigel.github.io/rsschool-cv/
